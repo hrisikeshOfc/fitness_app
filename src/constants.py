@@ -1,0 +1,3 @@
+DATABASE_NAME: str = "fitness"
+WORKOUT_COLLECTION_NAME = "workouts"
+WORKOUT_TODAY_COLLECTION_NAME = "workout_today"

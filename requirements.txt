@@ -1,0 +1,6 @@
+harperdb==0.4.2
+ipykernel==6.25.0
+pymongo==4.4.1
+pytube==15.0.0
+semver==3.0.1
+streamlit==1.25.0
